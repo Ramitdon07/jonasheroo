@@ -369,7 +369,7 @@ def menu(my_name,my_id):
 	print(" [\u001b[36m•\033[1;37m] Today's date    :",todaydate)
 	print(" [\u001b[36m•\033[1;37m] Your Ip Address :",ip)
 	linex()
-	print(f""" [\u001b[36m1\033[1;37m] Crack Public\n [\u001b[36m2\033[1;37m] Crack File\n [\u001b[36m3\033[1;37m] Check Results \n [\u001b[36m4\033[1;37m] Contact Admin \n [\u001b[36m5\033[1;37m] Update To V4 \n [\u001b[36m0\033[1;37m] Logout Menu""")
+	print(f""" [\u001b[36m1\033[1;37m] Crack Public\n [\u001b[36m2\033[1;37m] Crack File\n [\u001b[36m3\033[1;37m] Check Results \n [\u001b[36m4\033[1;37m] Contact Admin\n [\u001b[36m0\033[1;37m] Logout Menu""")
 	linex()
 	Meledak = input(' Choose : ')
 	if Meledak in ['1']:
